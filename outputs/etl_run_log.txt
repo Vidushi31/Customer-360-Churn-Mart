@@ -1,0 +1,7 @@
+Data source file: C:\Users\vidus\Downloads\telecom_customer_360_churn_project\data\Telco-Customer-Churn.csv
+Canonical IBM dataset: https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
+Rows loaded (raw, cleaned, fact): 7043 / 7043 / 7043
+Missing TotalCharges repaired for tenure=0: 11
+Churned: 1869
+Overall churn: 26.54%
+Load month label: 2026-11 (NOT an observed historical month)
